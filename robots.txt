@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nacpao.github.io/Spf/sitemap.Spf.gz
